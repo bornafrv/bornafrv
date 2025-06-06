@@ -7,8 +7,6 @@
 - 🎓 **BSc in Computer Engineering** – University of Tehran  
 - 🔬 Passionate about **AI, ML, Data Science**, and **System Programming**
 
-- 📍 **Location:** Tehran, Iran  
-- 💬 **Telegram:** [@Bo_frv](https://t.me/Bo_frv)  
 - 📧 **Email:** boforoohari@gmail.com  
 - 📎 **Resume:** [View Resume (PDF)](./Resume-BornaForoohari.pdf)  
 - 💼 **LinkedIn:** [linkedin.com/in/borna-foroohari-67a023369](https://www.linkedin.com/in/borna-foroohari-67a023369)
