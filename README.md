@@ -8,7 +8,6 @@
 - 🔬 Passionate about **AI, ML, Data Science**, and **System Programming**
 
 - 📧 **Email:** boforoohari@gmail.com  
-- 📎 **Resume:** [View Resume (PDF)](./Resume-BornaForoohari.pdf)  
 - 💼 **LinkedIn:** [linkedin.com/in/borna-foroohari-67a023369](https://www.linkedin.com/in/borna-foroohari-67a023369)
 
 ---
