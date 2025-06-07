@@ -9,6 +9,7 @@
 
 - 📧 **Email:** boforoohari@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/borna-foroohari-67a023369](https://www.linkedin.com/in/borna-foroohari-67a023369)
+- 📎 **Resume:** [View Resume (PDF)](./Resume-BornaForoohari.pdf)
 
 ---
 
