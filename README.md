@@ -35,29 +35,13 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/StarUML-lightgrey" />
-  <img src="https://img.shields.io/badge/MATLAB-orange" />
-  <img src="https://img.shields.io/badge/Word-2B579A?logo=microsoftword&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-4C6FFF" />
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyMongo-darkgreen" />
-  <img src="https://img.shields.io/badge/Torchvision-FF4C4C" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" />
 </p>
 
