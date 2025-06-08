@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B" />
   <img src="https://img.shields.io/badge/C-555555?logo=c" />
   <img src="https://img.shields.io/badge/Java-007396?logo=java" />
+  <img src="https://img.shields.io/badge/ANTLR-5E2BFF?style=flat&logo=antlr&logoColor=white" />
   <img src="https://img.shields.io/badge/VerilogHDL-red" />
   <img src="https://img.shields.io/badge/SystemVerilog-purple" />
   <img src="https://img.shields.io/badge/Assembly-6E4C13" />
